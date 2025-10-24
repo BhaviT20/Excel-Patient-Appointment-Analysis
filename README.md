@@ -89,5 +89,3 @@ This dashboard helps healthcare administrators:
 - Improve overall scheduling and patient engagement efficiency  
 
 ---
-
-**🔗 Repository:** [Healthcare-NoShow-Analysis](https://github.com/Ishu-Farainzia/Excel_portfolio/tree/main/healthcare_analytics/Excel-Healthcare-Patient-Appointment-Analysis)
